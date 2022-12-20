@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TotallyCool0
+- 👀 I’m interested in being left alone.
+- 🌱 I’m currently learning stuff, or maybe nothing.
+- 💞️ I’m looking to collaborate on nothing.
+- 📫 How to reach me... Actually, don't.
+- This is not the profile you are looking for... Move along...
+- <!-- In case you're not cool, that was a Star Wars reference...
