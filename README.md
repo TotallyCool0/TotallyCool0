@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @TotallyCool0
-- 👀 I’m interested in being left alone.
-- 🌱 I’m currently learning stuff, or maybe nothing.
-- 💞️ I’m looking to collaborate on nothing.
-- 📫 How to reach me... Actually, don't.
-- This is not the profile you are looking for... Move along...
-- <!-- In case you're not cool, that was a Star Wars reference...
+Hi! I am TotallyCool! ( Get it? ;p )
+
+I have *The Cherry On Top*, my pihole blocklists on here. That is the entire reason I started my github account.
+It is my personal lists that I decided I wanted blocked on my netword. I think I have the more biased ones
+well sorted so if you use Pihole, please take a look! I have some good stuff that you might like!
