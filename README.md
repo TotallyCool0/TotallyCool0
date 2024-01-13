@@ -1,5 +1,4 @@
 Hi! I am TotallyCool! ( Get it? ;p )
 
-I have *The Cherry On Top*, my PiHole blocklists on here. That is the entire reason I started my GitHub account.
-It is my personal lists that I decided I wanted blocked on my network. I think I have the more biased ones
-well sorted so if you use Pihole, please take a look! I have some good stuff that you might like!
+You may have found me through my Lethal Company modpack, Minecraft modpacks, or through random luck!
+No matter how you're here, I hope you find the resources I have on my page valuable!
