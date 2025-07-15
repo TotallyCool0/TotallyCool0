@@ -1,4 +1,3 @@
 Hi! I am TotallyCool! ( Get it? ;p )
 
-You may have found me through my Lethal Company modpack, Minecraft modpacks, or through random luck!
-No matter how you're here, I hope you find the resources I have on my page valuable!
+Hey there! This is my personal space to host some files I use for random stuff.
